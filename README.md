@@ -1,3 +1,3 @@
-Hii Iam Naren kumar 
-I am learning Devops and git 
-
+Hi, I am learning DevOps basics.
+I am practicing Git workflows today.
+This is my first Git assignment!
